@@ -6,7 +6,7 @@
 [![📊 Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/visitors-badge.json)](https://github.com/VuToV-Mykola/test-drive-goit/graphs/traffic)
 [![⭐ Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/likes-badge.json)](https://github.com/VuToV-Mykola/test-drive-goit/actions/workflows/screenshot-and-visitor.yaml)
 [![📦 Size](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/repo-size.json)](https://github.com/VuToV-Mykola/test-drive-goit)
-[![📝 Language](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/repo-language.json)](https://github.com/VuToV-Mykola/test-drive-goit)
+[![🔤 Language](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/repo-language.json)](https://github.com/VuToV-Mykola/test-drive-goit)
 [![📄 License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/repo-license.json)](https://github.com/VuToV-Mykola/test-drive-goit/blob/main/LICENSE)
 
 ## 📸 Latest Screenshot
