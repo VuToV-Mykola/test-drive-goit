@@ -7,6 +7,9 @@
 [![⭐ Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/likes-badge.json)](https://github.com/VuToV-Mykola/test-drive-goit/actions/workflows/screenshot-and-visitor.yaml)
 [![📦 Size](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/repo-size.json)](https://github.com/VuToV-Mykola/test-drive-goit)
 [![📄 License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/VuToV-Mykola/test-drive-goit/main/assets/db/repo-license.json)](https://github.com/VuToV-Mykola/test-drive-goit/blob/main/LICENSE)
+
+## 📸 Скріншот проекту
+![Project Screenshot](./assets/screenshot.png)
 <!-- END:AUTOGEN -->
 
 [![Початок о 19:00](https://img.shields.io/badge/Старт-19:00-blue)](https://vutov-mykola.github.io/test-drive-goit/)
